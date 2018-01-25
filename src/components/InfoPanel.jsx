@@ -10,7 +10,7 @@ import './InfoPanel.css';
 const InfoPanel = ({ styles }) => (
   <div className="info-panel" style={styles.root}>
     <p>
-      <a href="https://gavinc4.github.io/livetetras/">Flatris</a> is a
+      <a href="https://gavinc4.github.io/livetetras/">Livetras</a> is a
       mobile-friendly implementation of Tetris, built using React & Redux.
     </p>
     <p>Use the arrow keys or buttons below to play.</p>
