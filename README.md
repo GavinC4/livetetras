@@ -9,5 +9,4 @@ In this repo you will find:
 - A [React Cosmos](https://github.com/react-cosmos/react-cosmos) integration with create-react-app and Redux
 - A [PWA](https://developers.google.com/web/progressive-web-apps/) with offline support
 
-[![Offline](flatris-offline.gif)](https://gavinc4.github.io/livetetras/)
 
