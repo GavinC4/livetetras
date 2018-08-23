@@ -8,4 +8,4 @@ In this repo you will find:
 - A [PWA](https://developers.google.com/web/progressive-web-apps/) with offline support
 
 
-(https://gavinc4.github.io/livetetras/)
+(https://livetetras.herokuapp.com/)
