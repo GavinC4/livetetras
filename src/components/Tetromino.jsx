@@ -5,10 +5,7 @@ import SquareBlock from './SquareBlock';
 import './Tetromino.css';
 
 class Tetromino extends React.Component {
-  /**
-   * A Tetromino is a geometric shape composed of four squares, connected
-   * orthogonally. Read more at http://en.wikipedia.org/wiki/Tetromino
-   */
+  
   renderGridBlocks() {
     const blocks = [];
     const rows = this.props.grid.length;
